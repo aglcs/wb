@@ -143,8 +143,7 @@
     margin-right: 10px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(5,41,66,0.55), rgba(26,45,59,0.55));
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(5,41,66,0.75), rgba(5,41,66,0.75));
 }
 
 .u-section-2 .u-sheet-1 {
@@ -337,6 +336,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 732px;
   }

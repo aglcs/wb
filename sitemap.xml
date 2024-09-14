@@ -2,35 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://aglcs.co.uk/Home.html</loc>
-        <lastmod>2024-09-08T19:44:40+01:00</lastmod>
+        <lastmod>2024-09-14T15:10:23+01:00</lastmod>
     </url>
     <url>
         <loc>https://aglcs.co.uk/index.html</loc>
-        <lastmod>2024-09-08T19:44:40+01:00</lastmod>
+        <lastmod>2024-09-14T15:10:23+01:00</lastmod>
     </url>
     <url>
         <loc>https://aglcs.co.uk/About-Us.html</loc>
-        <lastmod>2024-09-08T18:49:51+01:00</lastmod>
+        <lastmod>2024-09-14T14:15:31+01:00</lastmod>
     </url>
     <url>
         <loc>https://aglcs.co.uk/healthnsafety.html</loc>
         <lastmod>2024-09-08T18:06:00+01:00</lastmod>
     </url>
     <url>
-        <loc>https://aglcs.co.uk/wearehiring.html</loc>
-        <lastmod>2024-09-08T18:09:15+01:00</lastmod>
+        <loc>https://aglcs.co.uk/We-Are-Hiring.html</loc>
+        <lastmod>2024-09-14T13:06:55+01:00</lastmod>
     </url>
     <url>
         <loc>https://aglcs.co.uk/Contact-Us.html</loc>
         <lastmod>2024-09-08T18:58:25+01:00</lastmod>
     </url>
     <url>
+        <loc>https://aglcs.co.uk/Terms-And-Conditions.html</loc>
+        <lastmod>2024-09-14T12:48:03+01:00</lastmod>
+    </url>
+    <url>
+        <loc>https://aglcs.co.uk/Privacy-Policy.html</loc>
+        <lastmod>2024-09-14T12:48:12+01:00</lastmod>
+    </url>
+    <url>
         <loc>https://aglcs.co.uk/blog/transforming-your-home-with-a-loft-conversion-agls-recent-london-project.html</loc>
-        <lastmod>2024-09-08T17:23:32+01:00</lastmod>
+        <lastmod>2024-09-14T14:57:39+01:00</lastmod>
     </url>
     <url>
         <loc>https://aglcs.co.uk/blog/how-a-home-extension-can-boost-your-property-value-a-case-study-with-agl-construction-services.html</loc>
-        <lastmod>2024-09-08T17:11:19+01:00</lastmod>
+        <lastmod>2024-09-14T15:00:28+01:00</lastmod>
     </url>
     <url>
         <loc>https://aglcs.co.uk/blog/the-ultimate-guide-to-commercial-renovations-how-agl-transformed-a-london-restaurant.html</loc>
@@ -46,6 +54,6 @@
     </url>
     <url>
         <loc>https://aglcs.co.uk/blog/blog.html</loc>
-        <lastmod>2024-09-08T19:44:58+01:00</lastmod>
+        <lastmod>2024-09-14T15:10:48+01:00</lastmod>
     </url>
 </urlset>
